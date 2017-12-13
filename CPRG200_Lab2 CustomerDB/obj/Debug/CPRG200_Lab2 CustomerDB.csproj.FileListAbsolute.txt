@@ -1,0 +1,18 @@
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\bin\Debug\CPRG200_Lab2 CustomerDB.exe.config
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\bin\Debug\CPRG200_Lab2 CustomerDB.exe
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\bin\Debug\CPRG200_Lab2 CustomerDB.pdb
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2_CustomerDB.Properties.Resources.resources
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2 CustomerDB.csproj.GenerateResource.Cache
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2 CustomerDB.exe
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2 CustomerDB.pdb
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2 CustomerDB.csprojResolveAssemblyReference.cache
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2_CustomerDB.frmMain.resources
+C:\Users\Pythagoras\Documents\002b\CPRG200_Lab2 CSharp CustomerDB(Dean Jones)(Jan.03, 2017)\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\bin\Debug\CPRG200_Lab2 CustomerDB.exe.config
+C:\Users\Pythagoras\Documents\002b\CPRG200_Lab2 CSharp CustomerDB(Dean Jones)(Jan.03, 2017)\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\bin\Debug\CPRG200_Lab2 CustomerDB.exe
+C:\Users\Pythagoras\Documents\002b\CPRG200_Lab2 CSharp CustomerDB(Dean Jones)(Jan.03, 2017)\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\bin\Debug\CPRG200_Lab2 CustomerDB.pdb
+C:\Users\Pythagoras\Documents\002b\CPRG200_Lab2 CSharp CustomerDB(Dean Jones)(Jan.03, 2017)\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2 CustomerDB.csprojResolveAssemblyReference.cache
+C:\Users\Pythagoras\Documents\002b\CPRG200_Lab2 CSharp CustomerDB(Dean Jones)(Jan.03, 2017)\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2_CustomerDB.frmMain.resources
+C:\Users\Pythagoras\Documents\002b\CPRG200_Lab2 CSharp CustomerDB(Dean Jones)(Jan.03, 2017)\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2_CustomerDB.Properties.Resources.resources
+C:\Users\Pythagoras\Documents\002b\CPRG200_Lab2 CSharp CustomerDB(Dean Jones)(Jan.03, 2017)\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2 CustomerDB.csproj.GenerateResource.Cache
+C:\Users\Pythagoras\Documents\002b\CPRG200_Lab2 CSharp CustomerDB(Dean Jones)(Jan.03, 2017)\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2 CustomerDB.exe
+C:\Users\Pythagoras\Documents\002b\CPRG200_Lab2 CSharp CustomerDB(Dean Jones)(Jan.03, 2017)\CPRG200_Lab2 CustomerDB\CPRG200_Lab2 CustomerDB\obj\Debug\CPRG200_Lab2 CustomerDB.pdb

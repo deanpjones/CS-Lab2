@@ -1,0 +1,9 @@
+100	Dean	Jones	R	6.21
+200	Stores4U		C	60.00
+300	Indie Inc.		I	116.00
+301	Indie2		I	116.00
+101	Joe	Smith	R	23.32
+102	Bob	Johns	R	11.20
+201	Store@2		C	60.00
+302	INCD Ltd.		I	116.00
+233	dea	jon	R	7.72

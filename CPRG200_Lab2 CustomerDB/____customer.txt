@@ -1,0 +1,15 @@
+100,Dean,Jones,R,6.00
+101,Joe,Smith,R,8.60
+200,Nadine,Schurr,C,60.00
+300,George,Jetson,I,116.00
+102,Brian12,Lee34!,R,6.26
+103,Jet,Lee,R,6.00
+333,adsf,ffff,R,7.72
+444,MyCompany,,C,60.00
+555,Comp2,,I,116.00
+333,Joe,,R,6.26
+333,aaaa,asdf,R,6.00
+444,c2,,C,60.00
+555,c3,,I,116.00
+87777,adfa,asdfa,R,6.21
+33434,!123comp,,C,60.00

@@ -1,0 +1,6 @@
+100,Dean,Jones,R,6.00
+200,Store123!,,C,60.00
+300,AAA Company Inc.,,I,116.00
+101,Steve,Jobs,R,29.09
+102,Joe,Smith,R,6.10
+201,C1 Inc.,,C,60.00
